@@ -1,0 +1,33 @@
+---
+layout: default
+title: Iowa Ruby Brigade - Home Page
+---
+<h2 style="margin-bottom:0">Welcome!</h2>
+
+<div id="code_example">
+  <script src="https://gist.github.com/iowaruby/a6779f57fb70b1337093.js"></script>
+</div>
+
+<p><a id="code_example_link" href="#" onclick="toggle_code_example();">Hide Code Example</a></p>
+
+<hr/>
+<h4>Become a member by subscribing to our mailing list!</h4>
+<form action="http://groups.google.com/group/iowaruby/boxsubscribe">
+  <p>Email: <input type="text" name="email" size="40"/>
+    <input type="submit" name="sub" value="Subscribe"/></p>
+</form>
+<p>More information is available <a href="/join/">here</a>.</p>
+
+<hr/>
+<h2>Next Meeting</h2>
+
+{% assign meetings = site.meetings | where:"year", 2015 | reverse %}
+{{ meetings[1].content }}
+
+<hr />
+<h3>Thank You</h3>
+<p>Thanks to David W. Body of <a href="http://www.bigcreek.com/" rel="external">Big Creek Software, LLC</a> for his presentation on Minitest at our <a href="/meetings/2014/12/">December 2014</a> meeting.</p>
+
+<hr/>
+<h4>Meeting Topic Ideas</h4>
+<p>Please <a href="/about/">contact us</a> to suggest meeting topics or to volunteer to give a presentation.</p>

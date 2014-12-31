@@ -1,0 +1,239 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<title>Iowa Ruby Brigade - September 20, 2007</title>
+<!-- metadata -->
+<meta name="generator" content="S5" />
+<meta name="version" content="S5 1.1" />
+<meta name="presdate" content="20070920" />
+<meta name="author" content="David W. Body" />
+<meta name="company" content="Big Creek Software, LLC" />
+<!-- configuration parameters -->
+<meta name="defaultView" content="slideshow" />
+<meta name="controlVis" content="hidden" />
+<!-- style sheet links -->
+<link rel="stylesheet" href="ui/i18n/slides.css" type="text/css" media="projection" id="slideProj" />
+<link rel="stylesheet" href="ui/default/outline.css" type="text/css" media="screen" id="outlineStyle" />
+<link rel="stylesheet" href="ui/default/print.css" type="text/css" media="print" id="slidePrint" />
+<link rel="stylesheet" href="ui/default/opera.css" type="text/css" media="projection" id="operaFix" />
+<!-- S5 JS -->
+<script src="ui/default/slides.js" type="text/javascript"></script>
+<style type="text/css">
+  .books td {padding: 10px;}
+</style>
+</head>
+<body>
+
+<div class="layout">
+<div id="controls"><!-- DO NOT EDIT --></div>
+<div id="currentSlide"><!-- DO NOT EDIT --></div>
+<div id="header"></div>
+<div id="footer">
+<h1>Iowa Ruby Brigade</h1>
+<h2>September 20, 2007</h2>
+</div>
+
+</div>
+
+
+<div class="presentation">
+
+<div class="slide">
+<h1>Iowa Ruby Brigade</h1>
+<h2>Organizational Meeting</h2>
+<h4>September 20, 2007</h4>
+<div class="handout">
+  Welcome to the first meeting of the Iowa Ruby Brigade.
+  
+  Introduce self.
+</div>
+</div>
+
+
+<div class="slide">
+<h1>Agenda</h1>
+<ul>
+<li>Organizational Meeting (30 minutes)</li>
+<li>Getting Started with Ruby (60 minutes)
+  <ul>
+    <li>Installing Ruby</li>
+    <li>Exploring the Ruby Language</li>
+  </ul>
+  </li>
+</ul>
+<div class="handout">
+</div>
+</div>
+
+
+<div class="slide">
+<h1>Organizational Meeting</h1>
+<ul>
+  <li>Welcome / Introductions / Backgrounds</li>
+  <li>What is this group about?</li>
+  <li>Web Site (<a href="http://www.iowaruby.org">www.iowaruby.org</a>)</li>
+  <li>Mailing List(s) <small>Please subscribe!</small></li>
+  <li>Meetings
+    <ul>
+      <li>Dates / Times</li>
+      <li>Topics / Speakers / Volunteers?</li>
+    </ul></li>
+  <li>Social interaction, food, etc.</li>
+  <li>Anything else?&nbsp; Announcements?</li>
+</ul>
+<div class="handout">
+</div>
+</div>
+
+
+<div class="slide">
+<h1>Getting Started with Ruby</h1>
+<ul>
+<li>What is Ruby?</li>
+<li>Installing Ruby</li>
+<li>Ruby Language</li>
+</ul>
+<div class="handout">
+</div>
+</div>
+
+
+<div class="slide">
+<h1>What is Ruby?</h1>
+<p>A dynamic, open source programming language created by Yukihiro Matsumoto (&quot;Matz&quot;) and first released in 1995.</p>
+<ul>
+<li>Simple</li>
+<li>Productive</li>
+<li>Fun</li>
+</ul>
+<div class="handout">
+</div>
+</div>
+
+
+<div class="slide">
+<h1>Ruby is also...</h1>
+<ul>
+<li>Dynamic</li>
+<li>Object-Oriented</li>
+<li>&quot;Wonderfully powerful and useful&quot; <small>--Martin Fowler</small></li>
+<li>Beautiful</li>
+</ul>
+<p>&quot;[M]ore powerful than Perl, and more object-oriented than Python.&quot; <small>--Matz</small></p>
+<div class="handout">
+</div>
+</div>
+
+
+<div class="slide">
+<h1>Ruby Community</h1>
+<ul>
+<li>Web Resources, Newsgroups, Mailing Lists, Blogs</li>
+<li>IRC Channels</li>
+<li>Books</li>
+<li>Ruby Conferences</li>
+<li>Ruby User Groups</li>
+</ul>
+<div class="handout">
+</div>
+</div>
+
+
+<div class="slide">
+<h1>Installing Ruby</h1>
+<ul>
+<li>Windows</li>
+<li>Linux</li>
+<li>Macintosh OS X</li>
+</ul>
+<p>See the resources available at <a href="http://www.ruby-lang.org">www.ruby-lang.org</a>.</p>
+<p>Be sure to install Ruby Gems.</p>
+<div class="handout">
+</div>
+</div>
+
+
+<div class="slide">
+<h1>Ruby and it's World</h1>
+<ul>
+<li>Ruby Language</li>
+<li>Text Editors / IDE's</li>
+<li>Interactive Ruby (irb)</li>
+<li>Documentation (ri / rdoc)</li>
+<li>Ruby Gems</li>
+</ul>
+<div class="handout">
+</div>
+</div>
+
+
+<div class="slide">
+<h1>Ruby Language</h1>
+<h3>Show me the code!</h3>
+<p>Most of the code we looked at was based on the <a href="http://www.ruby-lang.org/en/documentation/quickstart/">Ruby in Twenty Minutes</a> tutorial.</p>
+<p>Here is the <a href="http://code.whytheluckystiff.net/hpricot/">Hpricot</a> example we saw at the end.</p>
+<pre style="font-size: small;">
+  #!/usr/bin/env ruby
+
+  require 'rubygems'
+  require 'hpricot'
+  require 'open-uri'
+
+  doc = Hpricot(open("http://www.nytimes.com/"))
+  headlines = doc.search("h1, h2, h3, h4, h5, h6")
+  headlines.each do |h|
+    puts h.innerText.strip
+  end
+</pre>
+<div class="handout">
+</div>
+</div>
+
+
+<div class="slide">
+<h1>Recommended Reading</h1>
+<table class="books">
+  <tr>
+    <td><img src="programming_ruby.jpg" alt="Programming Ruby"/></td>
+    <td><i>Programming Ruby: The Pragmatic Programmers' Guide</i>, 2nd ed. (&quot;PickAxe&quot;) (2005), Dave Thomas, et al.</td>
+  </tr>
+  <tr>
+    <td><img src="awdr.jpg" alt="Agile Web Development with Rails"/></td>
+    <td><i>Agile Web Development with Rails</i>, 2nd ed. (2006), Dave Thomas, David Heinemeier Hannson, et al.</td>
+  </tr>
+  <tr>
+    <td><img src="rubyforrails.jpg" alt="Ruby for Rails"/></td>
+    <td><i>Ruby for Rails</i> (2006), David A. Black</td>
+  </tr>
+  <tr>
+    <td><img src="rubyway.jpg" alt="The Ruby Way"/></td>
+    <td><i>The Ruby Way</i> (2007), 2nd ed., Hal Fulton</td>
+  </tr>
+</table>
+<div class="handout">
+</div>
+</div>
+
+
+<div class="slide">
+<h1>Thank You!</h1>
+<ul>
+<li>Thanks to DMACC for hosting us.</li>
+</ul>
+<p>Next Meeting</p>
+<ul>
+<li>Thursday, October 18, 2007, (here at DMACC West)</li>
+<li>Check the web site <a href="http://www.iowaruby.org">www.iowaruby.org</a> for details.</li>
+</ul>
+<div class="handout">
+</div>
+</div>
+
+
+</div>
+
+</body>
+</html>

@@ -1,0 +1,4 @@
+<h1>{{ page.year }} Meetings</h1>{% assign meetings = site.meetings | where:"year", page.year %}{% for meeting in meetings %}{% if meeting.month != null %}
+<div class="entry">
+  <h3><a href="/meetings/{{ meeting.year }}/{{ meeting.month }}">{{ meeting.title }}</a></h3>
+</div>{% endif %}{% endfor %}

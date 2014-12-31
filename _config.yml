@@ -1,0 +1,13 @@
+# Site settings
+title: Iowa Ruby Brigade
+url: "http://www.iowaruby.org"
+collections:
+  meetings:
+    output: true
+  jobs:
+    output: true
+
+# Build settings
+markdown: kramdown
+
+exclude: [Gemfile, Gemfile.lock]

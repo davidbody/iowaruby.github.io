@@ -1,0 +1,76 @@
+---
+layout: default
+collection: meetings
+title: July 2009
+year: 2009
+month: '07'
+---
+
+<h1>July 2009</h1>
+<h4>July 9, 2009</h4>
+<p>6:00 - 7:30 PM</p>
+<h3>Speaker</h3>
+<h4>David W. Body / <a href="http://www.bigcreek.com/" rel="external">Big Creek Software, LLC</a></h4>
+<h3>Topic</h3>
+<h4>Cucumber &amp; Webrat</h4>
+<p><a href="http://cukes.info/" rel="external">Cucumber</a> is a tool that lets software developers write descriptions of
+how software should behave in plain English (or any other natural language).  These plain text descriptions can be executed
+by Cucumber and can serve as automated acceptance tests for the software they describe.</p>
+<p>Here is a simple example. Describe a HelloWorld class as follows:</p>
+<pre>
+  Scenario: HelloWorld says Hello
+  Given An instance of HelloWorld
+  When I send it the say_hello message
+  Then it should say "Hello, Iowa Ruby Brigade!"
+</pre>
+<p>Implement the HelloWorld class:</p>
+<pre>
+class HelloWorld
+  def say_hello
+    "Hello, Iowa Ruby Brigade!"
+  end
+end
+</pre>
+<p>After some minor setup, execute the description with Cucumber and you get this output:</p>
+<pre>
+Scenario: HelloWorld says Hello
+  Given An instance of HelloWorld
+  When I send it the say_hello message
+  Then it should say "Hello, Iowa Ruby Brigade!"
+
+1 scenario (1 passed)
+3 steps (3 passed)
+0m0.001s
+</pre>
+<p>Although Cucumber is written in Ruby, Cucumber can be used to write descriptions (acceptance tests) for software 
+written in Ruby, Java, or .NET.  What's more, Cucumber can be used to describe (test) web applications written in any 
+language.</p>
+<p>Topics that will be covered:</p>
+<ul>
+<li>Introduction to Cucumber</li>
+<li>Using Cucumber with RSpec</li>
+<li>Using Cucumber with Ruby on Rails</li>
+<li>Using Cucumber &amp; <a href="http://gitrdoc.com/brynary/webrat/tree/master/" rel="external">Webrat</a> with Java web applications</li>
+</ul>
+<div id="extended">
+<h3>Meeting Location</h3>
+<p><a href="http://www.coldwellbankermag.com/" rel="external">Coldwell Banker / Mid-America Group Realtors</a><br/>
+8825 Northpark Court<br/>
+Johnston, Iowa</p>
+<p>Just north of I35/80 at the 86th Street exit.</p>
+<p>GPS coordinates: N 41° 39.368' W 93° 44.378'</p>
+<p>Wi-fi Internet access is available.</p>
+<p><a href="/about/">Click here for a map.</a></p>
+<h3>Door Prize</h3>
+<p>We'll give away the winner's choice of the following <a href="http://jetbrains.com/" rel="external">JetBrains</a> products:</p>
+<ul>
+<li>RubyMine Personal License</li>
+<li>IntelliJ IDEA Personal License</li>
+<li>ReSharper Personal License</li>
+<li>TeamCity Build Agent</li>
+<li>DotTrace</li>
+</ul>
+<h3>Dinner After the Meeting</h3>
+<p>If you can, please plan to join us for dinner at a local restaurant after the meeting.</p>
+</div>
+
