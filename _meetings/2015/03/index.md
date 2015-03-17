@@ -33,7 +33,7 @@ Spencer Herzberg is a local software engineer specializing in "jack of all trade
 He currently runs Docker in production and automates everything from local, development and production environments.  Spencer loves to work with new technology and currently writing code in Python, Java, Puppet, Ruby and Bash.
 
 ### Food
-Please note.  We are bringing back an old meeting format for this month.  After the presentation, we will meet at Exile Brewing immediately after.  Hope to see you there!
+Please note: After the presentation, we will meet at Gusto immediately after.  Hope to see you there!
 
 ### Food Location
 {% include gusto_location.html %}
