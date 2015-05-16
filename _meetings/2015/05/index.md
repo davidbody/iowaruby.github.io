@@ -22,11 +22,11 @@ Go ahead and get started with them here:  https://github.com/neo/ruby_koans.
 
 Confused?  That's OK!  Just bring a laptop and we'll help.
 
-### Food
+###Food
 Please note.  After the presentation, we will meet at Americana immediately after.  Hope to see you there!
 
-### Food Location
+###Food Location
 {% include americana_location.html %}
 
-### Meeting Location
+###Meeting Location
 {% include merchants_location.html %}
