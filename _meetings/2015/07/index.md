@@ -26,10 +26,7 @@ You’ve made the switch to agile. You stopped doing comprehensive documentation
 Hi! My name is Ryan Bergman and I’m a software developer in Des Moines Iowa. I work for John Deere Intelligent Solutions Group where I work mostly on applications merging agronomic data from farm equipment with web applications. It’s pretty cool. I am a big fan of agile/xp software development and I speak on the subject at user groups and conferences sometimes.
 
 ### Food
-Please note.  After the presentation, we will meet at Americana immediately after.  Hope to see you there!
-
-### Food Location
-{% include exile_location.html %}
+Pizza will be provided.
 
 ### Meeting Location
 {% include merchants_location.html %}
