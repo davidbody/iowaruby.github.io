@@ -25,8 +25,10 @@ Although the talk will center around programming robots in Ruby with the Artoo F
 
 [Jeff Donovan](https://twitter.com/_Jeff_D_) is a software developer in Des Moines, Iowa.
 
+{% comment %} 
 ### Pizza Sponsor
 Thanks to [Edwards Graphic Arts](http://www.ega.com/) for providing pizza for this meeting.
+{% endcomment %}
 
 ### Meeting Location
 {% include merchants2_location.html %}
