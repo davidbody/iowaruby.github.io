@@ -19,7 +19,7 @@ month: '01'
 
 #### [Jeff Donovan](https://twitter.com/_Jeff_D_)
 
-In just the past few years, there has been explosive growth in the field of robotics. According to Rob Evans, one of the creators of the Artoo Framework, there's already plenty of advanced hardware available for robotics but the software is still playing catchup.
+In just the past few years, there has been explosive growth in the field of robotics. According to Ron Evans, one of the creators of the Artoo Framework, there's already plenty of advanced hardware available for robotics but the software is still playing catchup.
 
 Although the talk will center around programming robots in Ruby with the Artoo Framework, there will be plenty of general information to appeal to the Rubyist and non-Rubyist alike, such as: an introduction to hardware for software developers and a short history of robotics.
 
