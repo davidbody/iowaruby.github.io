@@ -8,8 +8,8 @@ month: '06'
 
 # June 2016
 
-#### May 17, 2016
-6:00 - 7:30 PM
+#### June 21, 2016
+11:30 AM - 1:00 PM
 
 ### Topic
 
@@ -32,6 +32,8 @@ Please remember to RSVP and notify of any food requirements you may have to iowa
 
 ### Food Sponsor
 Thanks to [Merchants Bonding](http://www.merchantsbonding.com/) for providing food for this meeting.
+
+Note: this is lunch, and we would appreciate and RSVP to get the food count as well as any dietary limitations you may have.
 
 ### Meeting Location
 {% include merchants2_location.html %}
