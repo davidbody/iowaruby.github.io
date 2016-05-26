@@ -33,7 +33,7 @@ Please remember to RSVP and notify of any food requirements you may have to iowa
 ### Food Sponsor
 Thanks to [Merchants Bonding](http://www.merchantsbonding.com/) for providing food for this meeting.
 
-Note: this is lunch, and we would appreciate and RSVP to get the food count as well as any dietary limitations you may have.
+Note: this is lunch, and we would appreciate an RSVP to get the food count as well as any dietary limitations you may have.
 
 ### Meeting Location
 {% include merchants2_location.html %}
