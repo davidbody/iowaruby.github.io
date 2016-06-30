@@ -15,7 +15,9 @@ month: '07'
 
 #### Warmup:
 
-TBD
+_Don't Forget About Your Database_
+
+Explain how to build correct indexes, and how to incorporate DB functions and views into your code.
 
 #### Main Topic:
 _Trailblazer: Making your Rails Applications Manageable_
