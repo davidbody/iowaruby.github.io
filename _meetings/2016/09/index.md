@@ -8,7 +8,7 @@ month: '09'
 
 # September 2016
 
-#### September 16, 2016
+#### September 20, 2016
 11:30 AM - 1:00 PM
 
 ### Topic
