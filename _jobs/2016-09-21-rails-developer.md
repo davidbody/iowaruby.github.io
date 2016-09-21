@@ -16,7 +16,7 @@ We are a client-focused custom development firm specializing in larger, custom w
 
 We're also planning an incentive trip to Mexico this winter - join now and sip margaritas with us on the beach!
 
-Interested? [Email hireme@entretechno.com](hireme@entretechno.com) for more details!
+Interested? [Email hireme@entretechno.com](mailto:hireme@entretechno.com) for more details!
 
 Posted {{ page.date | date_to_long_string }}
 
