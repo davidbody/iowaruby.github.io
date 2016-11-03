@@ -26,7 +26,7 @@ How to use MessageBus instead of WebSockets
 You!!
 
 ### Food Sponsor
-TBD
+[Shift Interactive](https://twitter.com/shiftdsm)
 
 ### Meeting Location
 {% include shift_location.html %}
