@@ -7,9 +7,13 @@ date: '2016-11-15'
 # Application Developer
 
 Known in the industry as a customer focused technology leader and ranked 14th in the nation, Merchants Bonding is looking for our next application developer.
-As an application developer, you will employ agile development principals such as pair programming, TDD, and software craftsmanship to develop software in an iterative manner. Merchants provides it’s developers with the opportunity to work on a self-directed team that works closely with internal and external customers, focusing on the most important problems and delivering features that solve those problems.
+
+As an application developer, you will employ agile development principals such as pair programming, TDD, and software craftsmanship to develop software in an iterative manner.
+
+Merchants provides it’s developers with the opportunity to work on a self-directed team that works closely with internal and external customers, focusing on the most important problems and delivering features that solve those problems.
 
 Job Qualifications
+
 * An unquenchable desire to evolve, learn and continually improve
 * Working knowledge and experience with Ruby on Rails
 * Good understanding of HTML, CSS and JavaScript
@@ -25,7 +29,8 @@ Learn more about life at [Merchants](http://www.merchantsbonding.com/careers).
 
 Please send resume and cover letter to:
 
-[E-Mail: jobs@merchantsbonding.com](mailto:jobs@merchantsbonding.com)
+[jobs@merchantsbonding.com](mailto:jobs@merchantsbonding.com)
+
 Fax:  515-558-8692
 
 Merchants Bonding Company is an equal opportunity employer
