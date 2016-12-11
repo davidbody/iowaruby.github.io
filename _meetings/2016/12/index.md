@@ -30,7 +30,7 @@ We'll be looking at code and running tests, so bring your reading glasses!
 
 ### Speakers
 
-* [Dan Buettner](https://twitter.com/Canpncavedan) has spent 17 years on teams building working software and useful products for real people, first in publishing, then in financial services, now in learning management. Usually, he's on a Mac, and sometimes, he rides a bicycle.
+* [Dan Buettner](https://twitter.com/Capncavedan) has spent 17 years on teams building working software and useful products for real people, first in publishing, then in financial services, now in learning management. Usually, he's on a Mac, and sometimes, he rides a bicycle.
 
 ### Attendees
 
