@@ -28,8 +28,8 @@ While Ruby is firmly rooted in the Object Oriented world it does have make use o
 
 [Andrew Schutt](https://twitter.com/schuttandrew) is a software developer at [Shift Interactive](https://twitter.com/shiftdsm) in Des Moines, Iowa.
 
-### Pizza Sponsor
-TBD
+### Food Sponsor
+[Shift Interactive](https://twitter.com/shiftdsm)
 
 ### Meeting Location
-TBD
+{% include shift_location.html %}
