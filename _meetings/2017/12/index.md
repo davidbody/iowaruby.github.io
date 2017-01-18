@@ -2,7 +2,7 @@
 layout: default
 collection: meetings
 title: December 2017
-year: 2017
+year: 2018
 month: '12'
 ---
 
