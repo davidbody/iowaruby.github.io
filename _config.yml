@@ -10,4 +10,6 @@ collections:
 # Build settings
 markdown: kramdown
 
+twitter_username: iowaruby
+
 exclude: [Gemfile, Gemfile.lock]
