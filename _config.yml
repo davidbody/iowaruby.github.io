@@ -11,5 +11,6 @@ collections:
 markdown: kramdown
 
 twitter_username: iowaruby
+facebook_username: iowaruby
 
 exclude: [Gemfile, Gemfile.lock]
