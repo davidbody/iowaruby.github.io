@@ -52,7 +52,7 @@
           {% if site.twitter_username %}
             <li>
               <a href="https://twitter.com/{{ site.twitter_username }}">
-              <i class="fa fa-twitter"></i> Twitter
+                <i class="fa fa-twitter"></i> Twitter
               </a>
             </li>
           {% endif %}
@@ -63,6 +63,22 @@
                 <i class="fa fa-facebook"></i> Facebook
               </a>
             </li>
+          {% endif %}
+          
+          {% if site.github_username %}
+          <li>
+            <a href="https://github.com/{{ site.github_username }}">
+              <i class="fa fa-github"></i> GitHub
+            </a>
+          </li>
+          {% endif %}
+          
+          {% if site.google_plus_username %}
+          <li>
+            <a href="https://plus.google.com/{{ site.google_plus_username }}">
+              <i class="fa fa-google-plus"></i> Google+
+            </a>
+          </li>
           {% endif %}
 
         </div>
