@@ -28,7 +28,7 @@ it stay up and running. For example:
 1. Database Config files and some simple basic settings you can do when starting a project.
 1. Also if time, when things go wrong, helpful tools/software that come in handy to help figure out what's going on.
 
-Let's get crazy, and learn about some db's!!!
+Let's get crazy, and learn about some dbs!!!
 
 ### Speakers
 
