@@ -41,7 +41,7 @@ Thanks to [Shift Interactive](https://shiftdsm.com) for providing food for this 
 
 We would appreciate an RSVP to get a head count, as well as any dietary limitations you may have.
 
-RSVP here: [https://eventbrite.com]()
+RSVP here: [https://eventbrite.com](https://www.eventbrite.com/e/iowa-ruby-brigade-march-2017-tickets-32654064185)
 
 ### Meeting Location
 {% include shift_location.html %}
