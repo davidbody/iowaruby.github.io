@@ -2,7 +2,7 @@
 layout: default
 collection: meetings
 title: April 2017
-year: 2018
+year: 2017
 month: '04'
 ---
 
@@ -13,14 +13,14 @@ month: '04'
 
 ### Topic
 
-TBD
+https://www.eventbrite.com/e/april-iowa-ruby-brigade-tickets-33715861048
 
 ### Speakers
 
-TBD
+All
 
 ### Food Sponsor
-TBD
+Bring your own lunch
 
 ### Meeting Location
 {% include merchants2_location.html %}
