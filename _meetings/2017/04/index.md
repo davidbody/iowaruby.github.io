@@ -13,7 +13,8 @@ month: '04'
 
 ### Topic
 
-https://www.eventbrite.com/e/april-iowa-ruby-brigade-tickets-33715861048
+What's hard?  What problems are you or your organization having a hard time solving with Ruby/Rails?
+[Eventbrite](https://www.eventbrite.com/e/april-iowa-ruby-brigade-tickets-33715861048)
 
 ### Speakers
 
