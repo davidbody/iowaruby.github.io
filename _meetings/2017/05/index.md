@@ -2,7 +2,7 @@
 layout: default
 collection: meetings
 title: May 2017
-year: 2018
+year: 2017
 month: '05'
 ---
 
@@ -13,15 +13,19 @@ month: '05'
 
 ### Topic
 
-TBD
+#### Post RailsConf 2017 - lightning talks and highlights
+
+Hear about something awesome at RailsConf? Learn something new there?
+Disagree with DHH on something? Come share your new insight in a lightning talk!
+
 
 ### Speakers
 
-TBD
+You!
 
 ### Food Sponsor
 
-TBD
+Thanks to [Shift Interactive](http://shiftdsm.com/) for providing food for this meeting.
 
 ### Meeting Location
 {% include shift_location.html %}
