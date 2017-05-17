@@ -2,6 +2,8 @@
 layout: default
 collection: meetings
 title: May 2017
+topic: Post RailsConf 2017 - lightning talks and highlights
+speaker: You!
 year: 2017
 month: '05'
 ---

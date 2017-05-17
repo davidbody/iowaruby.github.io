@@ -2,7 +2,9 @@
 layout: default
 collection: meetings
 title: July 2017
-year: 2018
+year: 2017
+topic: Continuous Integration
+speaker: TBD
 month: '07'
 ---
 
