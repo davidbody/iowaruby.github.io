@@ -3,7 +3,7 @@ layout: default
 collection: meetings
 title: July 2017
 year: 2017
-topic: Continuous Integration
+topic: Continuous Integration / Deployment
 speaker: TBD
 month: '07'
 ---
