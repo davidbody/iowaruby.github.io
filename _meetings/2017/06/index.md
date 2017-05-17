@@ -2,7 +2,7 @@
 layout: default
 collection: meetings
 title: June 2017
-year: 2018
+year: 2017
 month: '06'
 ---
 
@@ -13,7 +13,7 @@ month: '06'
 
 ### Topic
 
-TBD
+Rails 5.1 Overview
 
 ### Speakers
 
