@@ -19,10 +19,12 @@ title: Iowa Ruby Brigade - Home Page
 <p>More information is available <a href="/join/">here</a>.</p>
 
 <hr/>
-<h2>Next Meeting</h2>
+<h2>Next Few Meetings</h2>
 
 {% assign meetings = site.meetings | where:"year", 2017 | reverse %}
 {{ meetings[1].content }}
+{{ meetings[2].content }}
+{{ meetings[3].content }}
 
 <hr />
 <h3>Thank You</h3>
