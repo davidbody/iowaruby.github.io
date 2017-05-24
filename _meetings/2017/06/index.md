@@ -27,7 +27,7 @@ Rails 5.1 has been out for over a month now. In this talk, we will look at whatâ
 * Encrypted secrets
 * Unification of form_for and form_tag into form_with
 
-In addition to the big features, we will take a look at some of the smaller API changes and deprecations that were introduced. Rather than simply reading from the changelog, I will try to provide examples of how and why you might want to use the various features. Finally, we will discuss any pain points we ran into during the upgrade process.
+In addition to the big features, we will take a look at some of the smaller API changes and deprecations that were introduced. Rather than simply reading from the changelog, I will provide examples of how and why you might want to use the various features. Finally, we will discuss any pain points we ran into during the upgrade process.
 
 ### Speakers
 
