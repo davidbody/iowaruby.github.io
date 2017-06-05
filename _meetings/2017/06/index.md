@@ -34,7 +34,12 @@ In addition to the big features, we will take a look at some of the smaller API 
 #### [Cliff Braton](https://twitter.com/cliffbraton), [Shift Interactive](https://shiftdsm.com)
 
 ### Food Sponsor
-TBD
+
+#### [Merchants Bonding](https://www.merchantsbonding.com)
+
+### RSVP
+
+#### [RSVP](https://www.eventbrite.com/e/june-irb-tickets-35148657581)
 
 ### Meeting Location
 {% include merchants2_location.html %}
