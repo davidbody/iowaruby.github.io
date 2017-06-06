@@ -10,7 +10,7 @@ month: '06'
 
 # June 2017
 
-#### June 20, 2017
+#### MONDAY, June 19, 2017
 11:30 - 1:00 PM
 
 ### Topic
