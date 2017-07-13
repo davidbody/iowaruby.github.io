@@ -3,7 +3,7 @@ layout: default
 collection: meetings
 title: August 2017
 year: 2017
-topic: TBD
+topic: Service Objects
 speaker: TBD
 month: '08'
 ---
@@ -15,14 +15,14 @@ month: '08'
 
 ### Topic
 
-TBD
+Service Objects
 
 ### Speakers
 
-TBD
+[Zach Taylor, Shift Interactive](https://twitter.com/ZTofficial)
 
 ### Food Sponsor
 TBD
 
 ### Meeting Location
-{% include merchants2_location.html %}
+TBD
