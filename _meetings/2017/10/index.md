@@ -2,8 +2,10 @@
 layout: default
 collection: meetings
 title: October 2017
-year: 2018
+year: 2017
 month: '10'
+speaker: TBD
+topic: TBD
 ---
 
 # October 2017
