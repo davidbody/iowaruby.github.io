@@ -4,25 +4,32 @@ collection: meetings
 title: October 2017
 year: 2017
 month: '10'
-speaker: TBD
-topic: TBD
+speaker: JoseLuis Torres
+topic: Refactoring Controllers using Filterer Objects
 ---
 
 # October 2017
 
 #### October 17, 2017
-11:30 - 1:00 PM
+12:00 - 1:00 PM
 
 ### Topic
 
-TBD
+#### Refactoring Controllers using Filterer Objects
+
+(coming soon)
 
 ### Speakers
 
-TBD
+[JoseLuis Torres](https://twitter.com/joseluis_torres)
 
 ### Food Sponsor
+
 TBD
 
+### RSVP
+
+#### Please RSVP [here](https://iowaruby-oct-2017.eventbrite.com)
+
 ### Meeting Location
-{% include merchants2_location.html %}
+{% include gravitate_location.html %}
