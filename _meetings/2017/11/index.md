@@ -26,4 +26,4 @@ TBD
 TBD
 
 ### Meeting Location
-{% include shift_location.html %}
+{% include gravitate_location.html %}
