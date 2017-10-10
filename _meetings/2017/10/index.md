@@ -17,7 +17,10 @@ topic: Refactoring Controllers using Filterer Objects
 
 #### Refactoring Controllers using Filterer Objects
 
-(coming soon)
+Let's make thin controllers and thin models an option again,
+there are many OO patterns out there that we are still missing in
+Rails projects, we will implement a Filterer pattern to break those
+searches in smaller parts.
 
 ### Speakers
 
