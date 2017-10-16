@@ -28,7 +28,7 @@ searches in smaller parts.
 
 ### Food Sponsor
 
-TBD
+[Shift Interactive](https://shiftdsm.com)
 
 ### RSVP
 
