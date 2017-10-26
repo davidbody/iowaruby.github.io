@@ -37,5 +37,9 @@ programmer, architect, and technical product owner for the past 18 years in the 
 
 TBD
 
+### RSVP
+
+#### Please RSVP [here](https://iowaruby-nov-2017.eventbrite.com)
+
 ### Meeting Location
 {% include gravitate_location.html %}
