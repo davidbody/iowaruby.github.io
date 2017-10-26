@@ -4,6 +4,8 @@ url: "http://www.iowaruby.org"
 collections:
   meetings:
     output: true
+  meeting_indices:
+    output: true
   jobs:
     output: true
 

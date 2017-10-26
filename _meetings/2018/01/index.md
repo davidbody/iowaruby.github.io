@@ -1,16 +1,16 @@
 ---
 layout: default
 collection: meetings
-title: December 2017
-year: 2017
-month: '12'
+title: January 2018
+year: 2018
+month: '01'
 topic: TBD
 speaker: TBD
 ---
 
-# December 2017
+# {{ page.title }}
 
-#### December 19, 2017
+#### January 16, 2018
 12:00 - 1:00 PM
 
 ### Topic
