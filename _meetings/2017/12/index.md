@@ -5,7 +5,7 @@ title: December 2017
 year: 2017
 month: '12'
 topic: TBD
-speaker: TBD
+speaker: Dan Buettner
 ---
 
 # December 2017
@@ -19,9 +19,10 @@ TBD
 
 ### Speakers
 
-TBD
+* [Dan Buettner](https://twitter.com/Capncavedan) has spent 17 years on teams building working software and useful products for real people, first in publishing, then in financial services, now in learning management. Usually, he's on a Mac, and sometimes, he rides a bicycle.
 
 ### Food Sponsor
+
 TBD
 
 ### Meeting Location
