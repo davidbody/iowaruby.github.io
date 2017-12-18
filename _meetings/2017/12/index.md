@@ -8,10 +8,10 @@ topic: Ruby and Rails haven't stopped evolving; you shouldn't either!
 speaker: Dan Buettner
 ---
 
-# December 2017
+# December 2017 CANCELED
 
 #### December 19, 2017
-12:00 - 1:00 PM
+CANCELED
 
 ### Topic
 
@@ -42,8 +42,6 @@ On most lunch hours, he wears spandex and rides his bicycle.
 TBD
 
 ### RSVP
-
-#### Please RSVP [here](https://iowaruby-dec-2017.eventbrite.com)
 
 ### Meeting Location
 {% include gravitate_location.html %}
