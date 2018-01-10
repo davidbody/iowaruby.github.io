@@ -23,9 +23,9 @@ title: Iowa Ruby Brigade - Home Page
 
 {% assign meetings = site.meetings | where:"year", 2018 | reverse %}
 <hr />
-{{ meetings[1].title }} - {{ meetings[1].topic }} - {{ meetings[1].speaker }}
+<a href="{{ meetings[1].url }}">{{ meetings[1].title }}</a> - {{ meetings[1].topic }} - {{ meetings[1].speaker }}
 <hr />
-{{ meetings[2].title }} - {{ meetings[2].topic }} - {{ meetings[2].speaker }}
+<a href="{{ meetings[2].url }}"> {{ meetings[2].title }}</a> - {{ meetings[2].topic }} - {{ meetings[2].speaker }}
 <hr />
 {{ meetings[3].content }}
 
