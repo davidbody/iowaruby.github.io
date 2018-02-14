@@ -36,9 +36,11 @@ Software engineer with a heavy focus on cloud and automation.
 Currently working at a stealth start up in Ames. Enjoys hacking on various
 side projects from home automation to game development.
 
-### Food Sponsor
+### Sponsors
 
-TBD
+Thanks to [Shift Interactive](https://shiftdsm.com) for providing lunch!
+
+Thanks to [Merchants Bonding Co](https://www.merchantsbonding.com) for providing the rental space!
 
 ### RSVP
 
