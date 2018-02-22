@@ -4,30 +4,15 @@ collection: meetings
 title: April 2018
 year: 2018
 month: '04'
-topic: TBD
+topic: CANCELED
 speaker: TBD
 ---
 
-# {{ page.title }}
+# CANCELED
 
 #### April 17, 2018
-12:00 - 1:00 PM
 
 ### Topic
 
-TBD
+No meeting this month because it conflicts with RailsConf. See you in May!
 
-### Speakers
-
-TBD
-
-### Food Sponsor
-
-TBD
-
-### RSVP
-
-#### Please RSVP [here](https://iowaruby-apr-2018.eventbrite.com)
-
-### Meeting Location
-{% include gravitate_location.html %}

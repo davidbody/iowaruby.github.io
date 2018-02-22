@@ -5,7 +5,7 @@ title: March 2018
 year: 2018
 month: '03'
 topic: TBD
-speaker: TBD
+speaker: Jessie Puls
 ---
 
 # {{ page.title }}
@@ -19,11 +19,11 @@ TBD
 
 ### Speakers
 
-TBD
+Jessie Puls
 
-### Food Sponsor
+### Sponsors
 
-TBD
+Thanks to [Shift Interactive](https://shiftdsm.com) for providing the rental space!
 
 ### RSVP
 
