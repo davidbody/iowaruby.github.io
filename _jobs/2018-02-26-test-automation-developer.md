@@ -1,11 +1,11 @@
 ---
 layout: default
 collection: jobs
-title: Automation Test Developer
+title: Test Automation Developer
 date: '2018-02-26'
 ---
 
-## Automation Test Developer
+## Test Automation Developer
 
 #### DESCRIPTION
 
@@ -14,7 +14,7 @@ Qualified candidates can submit their resumes via: Nationwide.com, Careerbuilder
 
 Are you looking for an opportunity to expand your software knowledge across multiple technologies?  Interested in joining one of the largest state-of-the art centralized application development operations in the insurance industry. We have a team of more than 600 people uncovering better ways to develop software. We work in an Agile environment which creates not only defined best practices but an avenue to grow and enhance software knowledge. To top it off, ComputerWorld named Nationwide one of the best IT places to work in 2016.
 
-Nationwide’s cutting edge Software Development Services group is looking for a Test Automation Developer Specialists and Consultants to join their Des Moines, IA. team. We’re seeking candidates with 6+ years of test automation experience working in an Agile environment. Expertise working in the insurance industry with Ruby Cucumber, Object-Oriented Programming (OOP) and JavaScript. Bachelor’s degree in computer science or related field required.
+Nationwide’s cutting edge Software Development Services group is looking for Test Automation Developer Specialists and Consultants to join their Des Moines, IA. team. We’re seeking candidates with 6+ years of test automation experience working in an Agile environment. Expertise working in the insurance industry with Ruby Cucumber, Object-Oriented Programming (OOP) and JavaScript. Bachelor’s degree in computer science or related field required.
 
 This role will entail:
 
