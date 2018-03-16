@@ -34,6 +34,15 @@ repeatable, and reliable ways.
 
 Thanks to [Shift Interactive](https://shiftdsm.com) for providing the rental space!
 
+Food and drink will be provided by [TekSystems](https://www.teksystems.com/).
+
+*People are at the heart of every successful business initiative.
+At TEKsystems, a leading provider of IT staffing, IT talent management
+and IT services, we understand people. Every year we deploy over 80,000 IT
+professionals at 6,000 client sites across North America, Europe and Asia.
+Our deep insights into the IT labor market enable us to help clients achieve
+their business goals—while optimizing their IT workforce strategies.*
+
 ### RSVP
 
 #### Please RSVP [here](https://iowaruby-mar-2018.eventbrite.com)
