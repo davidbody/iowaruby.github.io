@@ -2,10 +2,10 @@
 layout: default
 collection: meetings
 title: June 2018
-year: 2019
+year: 2018
 month: '06'
-topic: TBD
-speaker: TBD
+topic: Thor CLI
+speaker: Andrew Schutt
 ---
 
 # {{ page.title }}
