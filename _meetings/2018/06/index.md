@@ -15,11 +15,15 @@ speaker: Andrew Schutt
 
 ### Topic
 
-TBD
+Thor CLI
+
+Thor is a toolkit for building powerful command-line interfaces. It is used in Bundler, Vagrant, Rails and others. This talk is going to do a dive into Thor and use cases for the framework.
 
 ### Speakers
 
-TBD
+[Andrew Schutt](http://twitter.com/schuttandrew)
+
+Andrew Schutt is a Software Developer for Hy-Vee developing web applications. He primary works with Javascript today and tries to sneak in Ruby where he can at work.
 
 ### Food Sponsor
 
