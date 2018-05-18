@@ -17,7 +17,7 @@ speaker: Andrew Schutt
 
 Thor CLI
 
-Thor is a toolkit for building powerful command-line interfaces. It is used in Bundler, Vagrant, Rails and others. This talk is going to do a dive into Thor and use cases for what the framework could be used for.
+Thor is a toolkit for building powerful command-line interfaces. It is used in Bundler, Vagrant, Rails and others. This talk is going to do a dive into Thor and use cases for the framework.
 
 ### Speakers
 
