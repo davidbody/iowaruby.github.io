@@ -4,30 +4,15 @@ collection: meetings
 title: July 2018
 year: 2018
 month: '07'
-topic: TBD
+topic: CANCELED
 speaker: TBD
 ---
 
-# {{ page.title }}
+# CANCELED
 
 #### July 17, 2018
-12:00 - 1:00 PM
 
 ### Topic
 
-TBD
+No meeting this month as we were unable to secure a speaker. See you next month!
 
-### Speakers
-
-TBD
-
-### Food Sponsor
-
-TBD
-
-### RSVP
-
-#### Please RSVP [here](https://iowaruby-jul-2018.eventbrite.com)
-
-### Meeting Location
-{% include gravitate_location.html %}
