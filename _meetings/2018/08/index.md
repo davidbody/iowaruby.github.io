@@ -4,8 +4,8 @@ collection: meetings
 title: August 2018
 year: 2018
 month: '08'
-topic: TBD
-speaker: TBD
+topic: Validation in Rails
+speaker: Zach Taylor
 ---
 
 # {{ page.title }}
@@ -15,15 +15,29 @@ speaker: TBD
 
 ### Topic
 
-TBD
+#### Back to Basics: Validation in Rails
 
-### Speakers
+Let's talk about how validation works in Rails. This will be a
+heavily example-based talk about the basic and not-so-basic aspects
+of model validation in Rails. Some topics we'll touch on:
 
-TBD
+* Basic Rails validations
+* Custom validators
+* `ActiveModel::Errors` API
+* Real world examples
 
-### Food Sponsor
+The goal is to go through some best practices and how to use them and some
+worst practices and how to avoid them.
 
-TBD
+### Speaker(s)
+
+[Zach Taylor](https://twitter.com/ZTofficial)
+
+### Sponsor(s)
+
+Thanks to [Merchants Bonding Co](https://www.merchantsbonding.com) for providing the rental space!
+
+Food and drink will be provided by [Shift Interactive](https://shiftdsm.com).
 
 ### RSVP
 
