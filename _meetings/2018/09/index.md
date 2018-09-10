@@ -4,8 +4,8 @@ collection: meetings
 title: September 2018
 year: 2018
 month: '09'
-topic: TBD
-speaker: TBD
+topic: Exploring ActionCable in Rails
+speaker: Logan Keenan
 ---
 
 # {{ page.title }}
@@ -15,15 +15,20 @@ speaker: TBD
 
 ### Topic
 
-TBD
+#### Exploring ActionCable in Rails
 
-### Speakers
+Action Cable is new to Rails 5.0 and integrates web sockets with the rest of the Rails
+ecosystem. We'll explore using this new feature through the creation of a real-time chat client.
 
-TBD
+### Speaker(s)
 
-### Food Sponsor
+[Logan Keenan](https://github.com/logankeenan)
 
-TBD
+### Sponsor(s)
+
+Thanks to [Shift Interactive](https://shiftdsm) for providing the rental space!
+
+Food and drink will be provided by ...
 
 ### RSVP
 
