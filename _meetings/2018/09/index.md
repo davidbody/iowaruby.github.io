@@ -28,7 +28,7 @@ ecosystem. We'll explore using this new feature through the creation of a real-t
 
 Thanks to [Shift Interactive](https://shiftdsm) for providing the rental space!
 
-Food and drink will be provided by ...
+Food and drink will be provided by [Merchants Bonding Co](https://www.merchantsbonding.com)!
 
 ### RSVP
 
