@@ -4,8 +4,8 @@ collection: meetings
 title: October 2018
 year: 2018
 month: '10'
-topic: TBD
-speaker: TBD
+topic: Remote Work
+speaker: Zach Taylor
 ---
 
 # {{ page.title }}
@@ -15,15 +15,23 @@ speaker: TBD
 
 ### Topic
 
-TBD
+#### Remote Work
 
-### Speakers
+Let's talk about remote work! What are some of the benefits and disadvantages?
+Hopefully we can share our thoughts on the subject and those who work remotely
+can share their experience and those who do not can ask questions.
 
-TBD
+Bring your struggles, questions, and tools!
 
-### Food Sponsor
+### Speaker(s)
 
-TBD
+[Zach Taylor](https://twitter.com/ZTofficial)
+
+### Sponsor(s)
+
+Thanks to [Merchants Bonding Co](https://www.merchantsbonding.com) for providing the rental space!
+
+Food and drink will be provided.
 
 ### RSVP
 
