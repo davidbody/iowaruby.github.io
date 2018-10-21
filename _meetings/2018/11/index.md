@@ -4,26 +4,24 @@ collection: meetings
 title: November 2018
 year: 2018
 month: '11'
-topic: TBD
-speaker: TBD
+topic: Iowa Ruby Hacknight
+speaker: n/a
 ---
 
 # {{ page.title }}
 
 #### November 20, 2018
-12:00 - 1:00 PM
+6:00 PM - 8:00 PM
 
 ### Topic
 
-TBD
+#### Iowa Ruby Hacknight
 
-### Speakers
+This month will an unstructured chance to work on personal projects, ask for help, and chat about whatever comes to mind.
 
-TBD
+### Sponsor(s)
 
-### Food Sponsor
-
-TBD
+Food and drink will be provided!
 
 ### RSVP
 
