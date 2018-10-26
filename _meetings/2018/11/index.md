@@ -17,7 +17,7 @@ speaker: n/a
 
 #### Iowa Ruby Hacknight
 
-This month will an unstructured chance to work on personal projects, ask for help, and chat about whatever comes to mind.
+This month will be an unstructured chance to work on personal projects, ask for help, and chat about whatever comes to mind.
 
 ### Sponsor(s)
 
