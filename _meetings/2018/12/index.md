@@ -4,8 +4,8 @@ collection: meetings
 title: December 2018
 year: 2018
 month: '12'
-topic: TBD
-speaker: TBD
+topic: Testing in Rails
+speaker: Logan Keenan
 ---
 
 # {{ page.title }}
@@ -15,15 +15,18 @@ speaker: TBD
 
 ### Topic
 
+#### Testing in Rails
 TBD
 
 ### Speakers
 
-TBD
+[Logan Keenan](https://github.com/logankeenan)
 
-### Food Sponsor
+### Sponsor(s)
 
-TBD
+Thanks to [Merchants Bonding Co](https://www.merchantsbonding.com) for providing the rental space!
+
+Food and drink will be provided!
 
 ### RSVP
 

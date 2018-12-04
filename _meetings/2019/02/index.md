@@ -2,7 +2,7 @@
 layout: default
 collection: meetings
 title: February 2019
-year: 2019
+year: 2018
 month: '02'
 topic: TBD
 speaker: TBD
