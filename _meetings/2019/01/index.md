@@ -2,7 +2,7 @@
 layout: default
 collection: meetings
 title: January 2019
-year: 2018
+year: 2019
 month: '01'
 topic: TBD
 speaker: TBD
@@ -15,16 +15,21 @@ speaker: TBD
 
 ### Topic
 
-TBD
+#### Look Inside Your Rails App
+
+We'll go through several ways to gain more visibility into your Rails application
+when running in production. We'll discuss some tools built into Rails as well as
+third-party tools. By the end, you should have a better understanding of how to
+introspect your running system.
 
 
 ### Speakers
 
-TBD
+[Zach Taylor](https://twitter.com/ZTofficial)
 
 ### Sponsors
 
-TBD
+Thanks to [Shift Interactive](https://shiftdsm.com) for providing the rental space, food, and drink!
 
 ### RSVP
 
